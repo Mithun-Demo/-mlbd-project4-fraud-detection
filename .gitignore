@@ -1,0 +1,6 @@
+data/creditcard_sample.csv
+data/german.zip
+__pycache__/
+*.pyc
+logs/
+render/
